@@ -8,7 +8,7 @@ Here is some stuff about me:
 - 🔭 I’m currently working on 5 Discord Bots.
 - 🌱 I’m currently learning HTML.
 - 👯 I’m looking to collaborate on A Website Or Discord Bot.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Knowing Coding Better.
 - 💬 Ask me about My Life, Anything Really.
 - 📫 How to reach me: Join The Discord: https://discord.gg/mQKqkvwg3V
 - 😄 Pronouns: Him/He.
