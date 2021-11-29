@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Cayulz!</h1>
 <h3 align="center">Sports & School</h3>
-<h4 align="center">Click the join button below, to join my community!</h4>
+<h4 align="center">Click the join button at the bottom, to join my community!</h4>
 
 
 <p align="center">
