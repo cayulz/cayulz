@@ -1,19 +1,17 @@
-### Hi There Im Cayulz 👋
-
-Hello there! I'm a passionate coder. I mainly make discord bots in javascript, I started coding when Covid-19 hit. I'm now waiting for one of my discord bots called Kyan to get verifed! Also if your wondering a mainly only code in javascript :P
-
-
-Here is some stuff about me:
-
-- 🔭 I’m currently working on 5 Discord Bots.
-- 🌱 I’m currently learning HTML.
-- 👯 I’m looking to collaborate on A Website Or Discord Bot.
-- 🤔 I’m looking for help with Knowing Coding Better.
-- 💬 Ask me about My Life, Anything Really.
-- 📫 How to reach me: Join The Discord: https://discord.gg/mQKqkvwg3V
-- 😄 Pronouns: Him/He.
-- ⚡ Fun fact: I Like Soccer.
+<h1 align="center">👋 Hey, I'm Cayulz!</h1>
+<h3 align="center">Sports & School</h3>
+<h4 align="center">Click the join button below, to join my community!</h4>
 
 
-
-Thanks for reading about me, if you have any questions or concerns feel free to join the discord server for free codes and coding-help. See you later! 
+<p align="center">
+  <a href="https://ko-fi.com/cayulz"><img src="https://img.buymeacoffee.com/button-api/?text=Donate some money&emoji=�💵&slug=jnsp&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
+  <br>
+  <br>
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-3/763739305566404608.png"></a>
+  <br>
+  <br>
+  <!-- <a href="https://open.spotify.com/user/am0g3o7csu1k3u03cfx1tmto6"><img src="https://novatorem-peach-ten.vercel.app/api/spotify"></a> -->
+  <a href="https://discord.gg/KYfKuddMZv">
+    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
+   </a>
+</p>
